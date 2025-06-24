@@ -1,0 +1,40 @@
+PassengerId  Survived  Pclass  \
+0              1         0       3   
+1              2         1       1   
+2              3         1       3   
+3              4         1       1   
+4              5         0       3   
+..           ...       ...     ...   
+886          887         0       2   
+887          888         1       1   
+888          889         0       3   
+889          890         1       1   
+890          891         0       3   
+
+                                                  Name     Sex        Age  \
+0                              Braund, Mr. Owen Harris    male  22.000000   
+1    Cumings, Mrs. John Bradley (Florence Briggs Th...  female  38.000000   
+2                               Heikkinen, Miss. Laina  female  26.000000   
+3         Futrelle, Mrs. Jacques Heath (Lily May Peel)  female  35.000000   
+4                             Allen, Mr. William Henry    male  35.000000   
+..                                                 ...     ...        ...   
+886                              Montvila, Rev. Juozas    male  27.000000   
+887                       Graham, Miss. Margaret Edith  female  19.000000   
+888           Johnston, Miss. Catherine Helen "Carrie"  female  29.699118   
+889                              Behr, Mr. Karl Howell    male  26.000000   
+890                                Dooley, Mr. Patrick    male  32.000000   
+
+     SibSp  Parch            Ticket     Fare Cabin Embarked  
+0        1      0         A/5 21171   7.2500   NaN        S  
+1        1      0          PC 17599  71.2833   C85        C  
+2        0      0  STON/O2. 3101282   7.9250   NaN        S  
+3        1      0            113803  53.1000  C123        S  
+4        0      0            373450   8.0500   NaN        S  
+..     ...    ...               ...      ...   ...      ...  
+886      0      0            211536  13.0000   NaN        S  
+887      0      0            112053  30.0000   B42        S  
+888      1      2        W./C. 6607  23.4500   NaN        S  
+889      0      0            111369  30.0000  C148        C  
+890      0      0            370376   7.7500   NaN        Q  
+
+[891 rows x 12 columns]
